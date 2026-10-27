@@ -1,5 +1,7 @@
 # Fixing "Docker: Add Docker Files to Workspace" in VS Code
 
+Türkçe: [README.tr.md](README.tr.md)
+
 ![Error and fix](docker-add-files-to-workspace.jpg)
 
 In VS Code, the Command Palette entry `Docker: Add Docker Files to Workspace` fails with
